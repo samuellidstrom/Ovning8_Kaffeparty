@@ -12,6 +12,25 @@ nav {
     margin-bottom: 50px;
 }
 
+.bg-primary{
+    /*background-color: #CDD6C5 !important;*/
+    
+}
+
+.card-footer {
+    /*background-color: rgb(50, 74, 56);*/
+    background-color: #E0E1E3 !important;
+}
+
+.card-body{    
+    
+    background-color: #CDD6C5 !important;
+}
+
+.card{
+    margin: 15px;
+}
+
 footer {
     background-color: rgb(50, 74, 56);
     color: rgb(156, 178, 162);
@@ -19,6 +38,27 @@ footer {
     height: 80px;    
 }
 
+.btn-success{
+    background-color: rgb(84, 153, 105);
+    border-color: rgb(56, 130, 78);
+}
+
+.btn-success:hover{
+    background-color: rgb(92, 200, 124);
+    border-color: rgb(56, 130, 78);
+}
+
+.btn-info {
+    background-color: rgb(107, 162, 199);
+    color: aliceblue;
+    border-color: rgb(59, 92, 113);
+}
+
+.btn-info:hover{
+    background-color: rgb(129, 190, 231);
+    color: aliceblue;
+    border-color: rgb(76, 144, 186);
+}
 
 h1,
 h2,
@@ -76,6 +116,7 @@ h6 {
 .pricetext {
     font-size: 20px;
     font-weight: bolder;
+    /*color: aliceblue;*/
 }
 
 a {
